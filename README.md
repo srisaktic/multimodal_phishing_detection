@@ -27,7 +27,7 @@ It is designed to simulate decentralized training environments while maintaining
 ## 🖼️ System Overview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5a50cd97-8297-4324-9981-aecde519782d" width="700"/>
+  <img src="[https://github.com/user-attachments/assets/5a50cd97-8297-4324-9981-aecde519782d](https://github.com/srisaktic/multimodal_phishing_detection/blob/main/image.png?raw=true)" width="700"/>
 </p>
 
 ---
